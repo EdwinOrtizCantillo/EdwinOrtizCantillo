@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# Hola, soy Edwin.
+## Soy un desarrollador web de Colombia. Actualmente trabajo en la construcción de mis propios proyectos. Mis herramientas preferidas son JAVA, Python, JavaScript y React.js. Tengo en buen manejo tanto de lógica como diseñador. me di cuenta en la universidad, que el desarrollo web era el camino para poder potenciar mi lado creativo y mi lado lógico para programar. He realizado trabajos remotos para algunas empresas, asesorando para nuevas empresas y colaborado con personas talentosas para crear productos digitales. trabajo mucho para mejorar mis habilidades, soy bastante curioso y muy entregado a mis proyectos.
+
 <!--
 **EdwinOrtizCantillo/EdwinOrtizCantillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
