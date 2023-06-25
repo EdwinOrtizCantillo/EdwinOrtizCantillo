@@ -1,12 +1,6 @@
 # Hola, soy Edwin Ortiz 👋
 
-*Soy un desarrollador web de Colombia. Actualmente trabajo en la construcción de mis propios proyectos. Mis herramientas preferidas son:*
-1. Java.
-2. JavaScript.
-3.  React.js.
-4. Python.
- 
-*Tengo en buen manejo tanto de lógica como diseñador. me di cuenta en la universidad, que el desarrollo web era el camino para poder potenciar mi lado creativo y mi lado lógico para programar. He realizado trabajos remotos para algunas empresas, asesorando para nuevas empresas y colaborado con personas talentosas para crear productos digitales, trabajo mucho para mejorar mis habilidades, soy bastante curioso y muy entregado a mis proyectos.*
+*Desarrollador web apasionado y creativo con amplia experiencia en diseño y desarrollo de sitios web atractivos y funcionales, Actualmente trabajo en la construcción de mis propios proyectos, he realizado trabajos remotos para algunas empresas, asesorado y colaborado con personas talentosas para crear productos digitales, con capacidad probada para trabajar en equipo y adaptarse a entornos dinámicos, enfocado en proporcionar soluciones web efectivas y de alta calidad que cumplan con los objetivos comerciales.*
 
 ### 🎓 Educación
 - Bootcamp Full-Stack JavaScript - Guillermo Rodas en Udefined Academy
